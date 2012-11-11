@@ -1,6 +1,8 @@
-# normalize.css v2.0.1
+# normalize.styl v2.0.1
 
-Normalize.css is a customisable CSS file that makes browsers render all
+Normalize.styl is a conversion of
+[Normalize.css](https://github.com/necolas/normalize.css) which is a
+customisable CSS file that makes browsers render all
 elements more consistently and in line with modern standards. We researched the
 differences between default browser styles in order to precisely target only
 the styles that need normalizing.
@@ -17,9 +19,9 @@ the styles that need normalizing.
 
 ## How to use it
 
-Normalize.css is intended to be used as an alternative to CSS resets.
+Normalize.styl is intended to be used as an alternative to CSS resets.
 
-It's suggested that you read the `normalize.css` file and consider customising
+It's suggested that you read the `normalize.styl` file and consider customising
 it to meet your needs. Alternatively, include the file in your project and
 override the defaults later in your CSS.
 
@@ -33,10 +35,11 @@ override the defaults later in your CSS.
 
 ## Contribute
 
-Please read my [issue
-guidelines](https://github.com/necolas/issue-guidelines).
+Please contribute to the original project. This is only a fork / conversion of
+the original file to the Stylus language.
 
 ## Acknowledgements
 
 Normalize.css is a project by [Nicolas Gallagher](http://github.com/necolas)
-and [Jonathan Neal](http://github.com/jonathantneal).
+and [Jonathan Neal](http://github.com/jonathantneal). Coverted to Stylus by
+Kenneth Powers. Licensed under the MIT License
